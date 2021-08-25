@@ -9,7 +9,7 @@ Perfil de ✨ Axel Lopez ✨.
 
 Estudiante TecTijuana:
 
-- 👾 No somos los mejores pero estamos en proceso 🤔
+- 👾 No somos los mejores pero estamos en proceso
 - 🖥 PPIITALVC
 - 👨‍🎓 Estudiante de ISC
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
