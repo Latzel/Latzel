@@ -17,7 +17,7 @@ Estudiante TecTijuana:
 - 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
 - 🤩 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y         embedded 
 - 🐆 Exalumno de la PFLC !
-- 
+ 
 
 Social Media:
 
