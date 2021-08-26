@@ -27,6 +27,17 @@ Social Media:
 | FB   	| Axel Lopez 	|  https://www.facebook.com/profile.php?id=100006367591399 	|
 | OF   	| Proximamente 😈😈 	|  	|
 
+
+Horario:
+| Hora |       LUNES      |      MARTES      |     MIERCOLES    |      JUEVES      |      VIERNES     |
+|:----:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|  2-3 |   Lenguajes Int  |   Lenguajes Int  |   Lenguajes Int  |   Lenguajes Int  |   Lenguajes Int  |
+|  3-4 | Desarrollo Sust. | Desarrollo Sust. | Desarrollo Sust. | Desarrollo Sust. | Desarrollo Sust. |
+|  4-5 |   Fund. Telec.   |   Fund. Telec.   |   Fund. Telec.   |   Fund. Telec.   |   Fund. Telec.   |
+| 5-6  |   Sistemas Op.   |   Sistemas Op.   |   Sistemas Op.   |   Sistemas Op.   |   Sistemas Op.   |
+|  6-7 |        FIS       |        FIS       |        FIS       |        FIS       |        FIS       |
+|  7-8 |    Taller BDD    |    Taller BDD    |    Taller BDD    |    Taller BDD    |    Taller BDD    |
+
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
